@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 7896a03904803ea439aae4f6b57292e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4820489913591291707
+    second: bugs_invaders_0
+  - first:
+      213: -4003653216060919896
+    second: bugs_invaders_1
+  - first:
+      213: -5813114471755501378
+    second: bugs_invaders_2
+  - first:
+      213: -1450810380043699662
+    second: bugs_invaders_3
+  - first:
+      213: -2519970854153834894
+    second: bugs_invaders_4
+  - first:
+      213: 4221454301551859240
+    second: bugs_invaders_5
+  - first:
+      213: 2421313087494485148
+    second: bugs_invaders_6
+  - first:
+      213: 802526666195090811
+    second: bugs_invaders_7
+  - first:
+      213: -5262761325809312723
+    second: bugs_invaders_8
+  - first:
+      213: 2303389498609602261
+    second: bugs_invaders_9
+  - first:
+      213: -1722516547717291451
+    second: bugs_invaders_10
+  - first:
+      213: -2872647846827515446
+    second: bugs_invaders_11
+  - first:
+      213: 9115757120251032675
+    second: bugs_invaders_12
+  - first:
+      213: 2506340831605303893
+    second: bugs_invaders_13
+  - first:
+      213: 2753403215521524780
+    second: bugs_invaders_14
+  - first:
+      213: 1567023817178111903
+    second: bugs_invaders_15
+  - first:
+      213: -5351290643829738576
+    second: bugs_invaders_16
+  - first:
+      213: -8929905518122744437
+    second: bugs_invaders_17
+  - first:
+      213: -6602700646630442733
+    second: bugs_invaders_18
+  - first:
+      213: -3354679816519107627
+    second: bugs_invaders_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bugs_invaders_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 77
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5667332, y: 0.37129974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a901b6fd2a1db0800000000000000
+      internalID: -4820489913591291707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 22
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.2801369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa6dcbc9a2078c0800000000000000
+      internalID: -4003653216060919896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46424937, y: 0.25665283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b458ef2ba35fa0800000000000000
+      internalID: -5813114471755501378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.52611244, y: 0.28254095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23abb0565afaddbe0800000000000000
+      internalID: -1450810380043699662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 76
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.43993926, y: 0.46375644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ea2d90cd3470dd0800000000000000
+      internalID: -2519970854153834894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52047485, y: 0.5500498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8261b8f225e959a30800000000000000
+      internalID: 4221454301551859240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 53
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fc16ac6b3a9120800000000000000
+      internalID: 2421313087494485148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 53
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45391807, y: 0.4738864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d365d30c5232b00800000000000000
+      internalID: 802526666195090811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 53
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.43677843, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd87d157ae6f6b0800000000000000
+      internalID: -5262761325809312723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 53
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.39989907, y: 0.6697345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8dfb8b8847ff10800000000000000
+      internalID: 2303389498609602261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.58741605, y: 0.40275982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542249d73546818e0800000000000000
+      internalID: -1722516547717291451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.47943127, y: 0.41991985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12e05d00e4228d0800000000000000
+      internalID: -2872647846827515446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 26.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.43829408, y: 0.49427998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364fc43bdcca18e70800000000000000
+      internalID: 9115757120251032675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.43064147, y: 0.49983507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a24e905bf48c220800000000000000
+      internalID: 2506340831605303893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 27
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47484007, y: 0.4427449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2498e2ad063620800000000000000
+      internalID: 2753403215521524780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.59770036, y: 0.5629199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f5a79fbdf2fb510800000000000000
+      internalID: 1567023817178111903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0.75
+        width: 29.2
+        height: 26.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b338a403856cb5b0800000000000000
+      internalID: -5351290643829738576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.4280098, y: 0.64872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854e727e3a921480800000000000000
+      internalID: -8929905518122744437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0.75
+        width: 29.2
+        height: 26.25
+      alignment: 9
+      pivot: {x: 0.37658823, y: 0.643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b9579ebe7e54a0800000000000000
+      internalID: -6602700646630442733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bugs_invaders_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.480048, y: 0.602905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb4311b78c171d0800000000000000
+      internalID: -3354679816519107627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
