@@ -42,13 +42,14 @@ public class EnemySwarm : MonoBehaviour
                 for(int j = 0; j<columncount; j++)
                 {
                     var Enemy = new GameObject() { name = EnemyName };
-                enemy.AddComponent<Anima>().sprites = EnemyType.sprites;
-                    enemy.transform.position = currentposition;
-                    enemy.transform.SetParent(enemy.transform);
-                    currentposition.x = xspacing;
+                    Enemy.AddComponent<Anima>().sprites = EnemyType.sprites;
+                    Enemy.transform.position = currentposition;
+                    Enemy.transform.SetParent(enemy.transform);
+                    
+                    currentposition.x += xspacing;
                 }
                 currentposition.x = minx;
-                currentposition.y = yspacing;
+                currentposition.y -= yspacing;
                 RowId++;
             }
         }
