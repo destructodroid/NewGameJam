@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7896a03904803ea439aae4f6b57292e8
+guid: f0de7c94bcb9d9147be0a444972b4f9a
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -63,7 +63,7 @@ TextureImporter:
       213: -3354679816519107627
     second: bugs_invaders_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -93,8 +94,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -149,6 +151,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -592,6 +618,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      bugs_invaders_14: 2753403215521524780
+      bugs_invaders_8: -5262761325809312723
+      bugs_invaders_1: -4003653216060919896
+      bugs_invaders_9: 2303389498609602261
+      bugs_invaders_15: 1567023817178111903
+      bugs_invaders_17: -8929905518122744437
+      bugs_invaders_6: 2421313087494485148
+      bugs_invaders_5: 4221454301551859240
+      bugs_invaders_0: -4820489913591291707
+      bugs_invaders_16: -5351290643829738576
+      bugs_invaders_3: -1450810380043699662
+      bugs_invaders_10: -1722516547717291451
+      bugs_invaders_12: 9115757120251032675
+      bugs_invaders_7: 802526666195090811
+      bugs_invaders_13: 2506340831605303893
+      bugs_invaders_11: -2872647846827515446
+      bugs_invaders_4: -2519970854153834894
+      bugs_invaders_18: -6602700646630442733
+      bugs_invaders_2: -5813114471755501378
+      bugs_invaders_19: -3354679816519107627
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
